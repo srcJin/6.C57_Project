@@ -1,5 +1,10 @@
 
 
+
+
+
+
+
 # Base Model
 Total optimal transplants: 1312
 
@@ -14,3 +19,5 @@ Total Matching Score: 13710 ( All pairs matches the optimal blood type)
 
 
 # with surgical constrains
+
+
